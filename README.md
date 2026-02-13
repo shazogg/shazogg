@@ -11,7 +11,7 @@ Software Developer specializing in low-level systems, language design, and embed
 | Category | Technologies |
 | :--- | :--- |
 | **Low-Level / Systems** | C++, Rust (Proof-of-Stake, Sharding), C, OCaml |
-| **Application & Web** | Java (11+, DAO/Domain patterns), Node.js, Electron, Python, JavaScript |
+| **Application & Web** | Java (DAO/Domain patterns), Node.js, Electron, Python, JavaScript |
 | **Embedded & Simulation** | ESP32 (M5Stick-C), Arduino, Lua (Custom OS development) |
 | **Game Dev & Tools** | Minecraft Script API, Forge, Luau (Roblox), NBT |
 | **DevOps & Tools** | Linux (Bash), Git, Kubernetes, Docker, PlatformIO |
@@ -85,7 +85,7 @@ A fleet management application designed with a clean **DAO architecture**.
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions" /><br>
+          <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" /><br>
           AWS • K8s • Docker
         </td>
         <td align="center">
