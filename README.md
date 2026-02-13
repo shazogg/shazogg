@@ -2,7 +2,7 @@
 
 **Computer Science Student @ Université de Toulouse (UPS)**
 
-I am a software developer with 10+ years of experience in the Minecraft ecosystem, now specializing in **low-level systems**, **language design**, and **embedded architectures**. I build modular, scalable, and secure software using a wide array of modern technologies.
+Software Developer specializing in low-level systems, language design, and embedded architectures. With a strong background in the Minecraft ecosystem, I build modular, scalable, and secure software using modern technologies.
 
 ---
 
@@ -54,7 +54,7 @@ A fleet management application designed with a clean **DAO architecture**.
 ### 🕹️ Gaming Ecosystem Expertise
 
 #### 🟩 Minecraft
-* **Modding:** 5+ years of Java development (Forge). Specialized in complex block states and NBT-driven systems.
+* **Modding:** 4+ years of Java development (Forge). Specialized in complex block states and NBT-driven systems.
 * **Bedrock:** Intermediate in using the **Script API** to port complex Java mechanics (Economy, RP systems) to the Bedrock engine.
 * **Infrastructure:** Deployment and optimization of production-grade multiplayer servers.
 
