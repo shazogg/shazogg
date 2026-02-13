@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&duration=1800&color=7AA2F7&multiline=true&width=435&lines=%24+whoami;Shawn+Franceus)](https://git.io/typing-svg)
 
-**Computer Science Student @ Université de Toulouse (UPS)**
+**Computer Science Student @ Université de Toulouse (UT)**
 
 Software Developer specializing in low-level systems, language design, and embedded architectures. With a strong background in the Minecraft ecosystem, I build modular, scalable, and secure software using modern technologies.
 
