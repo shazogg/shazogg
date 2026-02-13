@@ -20,7 +20,7 @@ I am a software developer with 10+ years of experience in the Minecraft ecosyste
 
 ### 🚀 Featured Projects
 
-#### 📟 [Floppy OS](https://github.com/shazogg/floppy-os-main) (Embedded C++)
+#### 📟 [Floppy OS](https://github.com/shazogg/floppy-os) (Embedded C++)
 A modular operating system designed for **ESP32 (M5Stick-C)**. 
 * **Key Features:** Custom ST7789 V2 display driver, **AES-encrypted** file management (SPIFFS), and a modular hardware abstraction layer.
 * **Tech:** Modern C++, PSRAM management, Python-based asset conversion tools.
