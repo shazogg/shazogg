@@ -64,6 +64,84 @@ A fleet management application designed with a clean **DAO architecture**.
 
 ---
 
+<h2 align="center">🛠️ Technical Skills</h2>
+
+<h3 align="center">Programming Languages</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,java,cs,python,js,ts,lua,ocaml,dart" />
+  <p><i>From low-level systems (C/C++/Rust) to functional (OCaml) and cross-platform (Dart)</i></p>
+</div>
+
+<h3 align="center">Cloud, Infrastructure & Backend</h3>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Cloud & Orchestration</th>
+        <th align="center">Backend & Servers</th>
+        <th align="center">Databases</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions" /><br>
+          AWS • K8s • Docker
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs,nginx,firebase,cmake" /><br>
+          Node.js • Nginx • Firebase • CMake
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /><br>
+          MySQL • MongoDB • NoSQL
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 align="center">Web & Desktop Development</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,electron,tailwind,sass,typescript" /><br>
+  <p><i>React, Vue.js (Pinia), Electron for Desktop, and Modern Styling (Tailwind/Sass)</i></p>
+</div>
+
+<h3 align="center">Game Engines & AI</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unreal,godot,pytorch" />
+  <p><i>Unreal Engine, Godot, and Machine Learning with PyTorch</i></p>
+</div>
+
+<h3 align="center">Testing, Quality & Tools</h3>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Testing & QA</th>
+        <th align="center">Monitoring & API</th>
+        <th align="center">Environment</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=cypress,vitest" /><br>
+          Cypress • Vitest
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=sentry,postman" /><br>
+          Sentry • Postman
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=vscode,idea,figma" /><br>
+          IDEs & Design
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 ### 📫 Reach Me
 * **Email:** [shawn.franceus@gmail.com](mailto:shawn.franceus@gmail.com)
 * **Location:** Toulouse, France 🇫🇷
