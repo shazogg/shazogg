@@ -103,8 +103,8 @@ A fleet management application designed with a clean **DAO architecture**.
 
 <h3 align="center">Web & Desktop Development</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,electron,tailwind,sass,typescript" /><br>
-  <p><i>React, Vue.js (Pinia), Electron for Desktop, and Modern Styling (Tailwind/Sass)</i></p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" /><br>
+  <p><i>Next.js, React, TypeScript, Tailwind CSS & shadcn/ui</i></p>
 </div>
 
 <h3 align="center">Game Engines & AI</h3>
