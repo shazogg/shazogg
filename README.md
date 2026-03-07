@@ -20,15 +20,15 @@ Software Developer specializing in low-level systems, language design, and embed
 
 ### 🚀 Featured Projects
 
-#### 📟 [Floppy OS](https://github.com/shazogg/floppy-os) (Embedded C++)
-A modular operating system designed for **ESP32 (M5Stick-C)**. 
-* **Key Features:** Custom ST7789 V2 display driver, **AES-encrypted** file management (SPIFFS), and a modular hardware abstraction layer.
-* **Tech:** Modern C++, PSRAM management, Python-based asset conversion tools.
-
 #### 🦀 [VulcanCoin](https://github.com/shazogg/vulcan-coin) (Rust)
 A research-focused **Proof-of-Stake** cryptocurrency prototype.
 * **Key Features:** Implementation of **sharding** for high throughput and a secure account-based transaction model.
 * **Focus:** KISS principle, cross-compilation (Mingw-w64), and distributed systems logic.
+
+#### 📟 [Floppy OS](https://github.com/shazogg/floppy-os) (Embedded C++)
+A modular operating system designed for **ESP32 (M5Stick-C)**. 
+* **Key Features:** Custom ST7789 V2 display driver, **AES-encrypted** file management (SPIFFS), and a modular hardware abstraction layer.
+* **Tech:** Modern C++, PSRAM management, Python-based asset conversion tools.
 
 #### 💎 [Quarkon & Runtime](https://github.com/shazogg/quarkon) (Python & C++)
 A custom programming language built from scratch.
