@@ -11,6 +11,7 @@ Software Developer specializing in low-level systems, language design, and embed
 | Category | Technologies |
 | :--- | :--- |
 | **Low-Level / Systems** | C++, Rust (Proof-of-Stake, Sharding), C, OCaml |
+| **AI & Orchestration** | Local LLMs (`node-llama-cpp`), Kubernetes, Docker, Gemini API, PyTorch |
 | **Application & Web** | Java (DAO/Domain patterns), Node.js, Electron, Python, JavaScript |
 | **Embedded & Simulation** | ESP32 (M5Stick-C), Arduino, Lua (Custom OS development) |
 | **Game Dev & Tools** | Minecraft Script API, Forge, Luau (Roblox), NBT |
@@ -19,6 +20,12 @@ Software Developer specializing in low-level systems, language design, and embed
 ---
 
 ### 🚀 Featured Projects
+
+#### 🧠 [Nexus Front](https://github.com/shazogg/nexus-front) [Nexus](https://github.com/shazogg/nexus) (Next.js, Tauri/Rust & Express)
+An extensible full-stack AI orchestration platform and graph-backed workflow engine.
+* **Architecture:** Core API proxying hosted models (Gemini) paired with a local inference engine (`node-llama-cpp` executing DeepSeek GGUF) via a serialized request pipeline.
+* **Persistence & Infra:** Graph-oriented data storage using **SurrealDB** for context memory, orchestrated via **Kubernetes** (k3d) with custom PVC management.
+* **Frontend:** High-performance Next.js and Tailwind interface compiled as a cross-platform native desktop application via **Tauri (Rust)**.
 
 #### 🦀 [VulcanCoin](https://github.com/shazogg/vulcan-coin) (Rust)
 A research-focused **Proof-of-Stake** cryptocurrency prototype.
