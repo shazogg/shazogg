@@ -21,7 +21,7 @@ Software Developer specializing in low-level systems, language design, and embed
 
 ### 🚀 Featured Projects
 
-#### 🧠 [Nexus Front](https://github.com/shazogg/nexus-front) [Nexus](https://github.com/shazogg/nexus) (Next.js, Tauri/Rust & Express)
+#### 🧠 [Nexus Front](https://github.com/shazogg/nexus-front), [Nexus Back](https://github.com/shazogg/nexus) (Next.js, Tauri/Rust & Express)
 An extensible full-stack AI orchestration platform and graph-backed workflow engine.
 * **Architecture:** Core API proxying hosted models (Gemini) paired with a local inference engine (`node-llama-cpp` executing DeepSeek GGUF) via a serialized request pipeline.
 * **Persistence & Infra:** Graph-oriented data storage using **SurrealDB** for context memory, orchestrated via **Kubernetes** (k3d) with custom PVC management.
